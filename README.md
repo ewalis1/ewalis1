@@ -35,6 +35,8 @@ Thanks to this course I've learned programming fundamentals and gained skills th
 - reading fantasy books and about personal growth 📖
 - DIY (I enjoy making candles, soaps or decoupage) 🛠
 
+<img src="ewamtb.jpg" width="350px" height="250px">
+
 
 ## 📚 Planning to learn:
 - more JavaScript
